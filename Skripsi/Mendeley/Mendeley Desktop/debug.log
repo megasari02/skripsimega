@@ -7,3 +7,6 @@
 [0325/230003.520:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
 [0325/230015.956:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
 [0325/230410.410:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0401/202756.851:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0401/202807.112:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0401/235428.134:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
